@@ -1,2 +1,2 @@
 # majsoul-plus-mods
-Backup of /mjg/ mods on repo.riichi.moe
+Backup of majsoul plus mods on the /mjg/ [repo](https://repo.riichi.moe/library.html#resources-majplus)
