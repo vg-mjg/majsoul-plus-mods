@@ -1,0 +1,23 @@
+{
+  "id": "maina",
+  "version": "1.1.0",
+  "name": "Maina-chan Appreciation Mod",
+  "author": "Eripyo",
+  "description": "MAINA CHAN IS THE CUTEST",
+  "preview": "preview.jpg",
+
+  "replace": [
+{"from":"scene/Assets/Resource/tablecloth/tablecloth_default/Table_Dif.jpg","to":"Table_Dif.jpg","all-servers":true},
+{"from":"myres2/tablecloth/tablecloth_default/preview.jpg","to":"preview.jpg","all-servers":true},
+{"from":"extendRes/items/tablecloth_navy.jpg","to":"preview.jpg","all-servers":true},
+{"from":"audio/music/lobby.mp3","to":"lobby.mp3","all-servers":true},
+{"from":"audio/music/game.mp3","to":"game.mp3","all-servers":true},
+{"from":"audio/music/liqi1.mp3","to":"liqi1.mp3","all-servers":true},
+{"from":"audio/music/liqi2.mp3","to":"liqi2.mp3","all-servers":true},
+{"from":"audio/music/liqi_chuzhen.mp3","to":"liqi_chuzhen.mp3","all-servers":true},
+{"from":"audio/music/yichujifa.mp3","to":"yichujifa.mp3","all-servers":true},
+{"from":"scene/Assets/Resource/lobby/beijing_chunying.jpg","to":"beijing_chunying.jpg","all-servers":true},
+{"from":"scene/Assets/Resource/lobby/indoor.jpg","to":"indoor.jpg","all-servers":true}
+
+  ]
+}

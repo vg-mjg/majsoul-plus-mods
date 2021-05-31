@@ -1,0 +1,9 @@
+{
+  "id": "deselect2select",
+  "version": "1.0.0",
+  "name": "Deselect to Select",
+  "author": "anon",
+  "description": "a script that makes 'Deselect All' select all (except purples)",
+  "preview": "preview.png",
+  "entry": "script.js"
+}

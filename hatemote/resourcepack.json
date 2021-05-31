@@ -1,0 +1,24 @@
+{
+  "id": "hatemote",
+  "version": "2.0.0",
+  "name": "Hat LN emote",
+  "author": "guano",
+  "description": "Bless the chinks. Bless hat. Inside the assets folder are all source .png",
+  "preview": "preview.png",
+
+  "dependencies": {
+    "majsoul_plus": "^2.0.0"
+  },
+  "replace": ["en/extendRes/emo/e200015/1.png",
+  "en/extendRes/emo/e200015/2.png",
+  "en/extendRes/emo/e200015/3.png",
+  "en/extendRes/emo/e200015/4.png",
+  "en/extendRes/emo/e200015/5.png",
+  "en/extendRes/emo/e200015/6.png",
+  "en/extendRes/emo/e200015/7.png",
+  "en/extendRes/emo/e200015/8.png",
+  "en/extendRes/emo/e200015/0.png",
+  "en/extendRes/emo/e200015/10.png",
+  "en/extendRes/emo/e200015/11.png",
+  "en/extendRes/emo/e200015/12.png"]
+}

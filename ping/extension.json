@@ -1,0 +1,9 @@
+{
+  "id": "ping",
+  "version": "1.0.0",
+  "name": "ping",
+  "author": "anon",
+  "description": "Konnichiwa",
+  "preview": "preview.png",
+  "entry": ["script.js"]
+}

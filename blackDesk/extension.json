@@ -1,0 +1,21 @@
+{
+  "id": "blackDesk",
+  "version": "1.1.0",
+  "name": "blackdeskv1.1",
+  "author": "CuewarsTaner",
+  "description": "Changes the central point zone。",
+  "preview": "preview.jpg",
+  "dependencies": {
+    "majsoul_plus": "^2.0.0"
+  },
+  "resourcepack": [
+
+    "scene/Assets/Resource/table/tablemid/bg.png",
+    "scene/Assets/Resource/table/tablemid/chang.png",
+    "scene/Assets/Resource/table/tablemid/feng.png",
+    "scene/Assets/Resource/table/tablemid/ju.png",
+    "scene/Assets/Resource/table/tablemid/left.png",
+    "scene/Assets/Resource/table/tablemid/num_left.png",
+    "scene/Assets/Resource/table/tablemid/score.png"
+  ]
+}

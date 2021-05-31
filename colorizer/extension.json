@@ -1,0 +1,9 @@
+{
+  "id": "colorizer",
+  "version": "2.0.1",
+  "name": "Nail/Skin colorizer",
+  "author": "Script Anon",
+  "description": "Paint the nails and skin of your favorite girls.",
+  "preview": "preview.jpg",
+  "entry": "script.js"
+}

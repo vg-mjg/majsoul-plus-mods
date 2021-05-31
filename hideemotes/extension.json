@@ -1,0 +1,9 @@
+{
+  "id": "hideemotes",
+  "version": "1.0.0",
+  "name": "Hide Emotes",
+  "author": "anon",
+  "description": "no fun allowed script that hides emotes",
+  "preview": "preview.png",
+  "entry": "script.js"
+}

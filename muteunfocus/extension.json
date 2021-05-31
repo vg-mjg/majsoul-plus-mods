@@ -1,0 +1,9 @@
+{
+  "id": "muteunfocus",
+  "version": "1.0.0",
+  "name": "Mute Unfocus",
+  "author": "anon",
+  "description": "mutes audio while the game is not focused",
+  "preview": "preview.png",
+  "entry": "script.js"
+}

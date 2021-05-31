@@ -1,0 +1,9 @@
+{
+  "id": "keyboard",
+  "version": "1.0.0",
+  "name": "Keyboard Controls",
+  "author": "anon",
+  "description": "default keys in readme file",
+  "preview": "preview.png",
+  "entry": "script.js"
+}

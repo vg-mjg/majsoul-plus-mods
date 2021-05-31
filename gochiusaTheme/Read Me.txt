@@ -1,0 +1,12 @@
+Is the Order a Rabbit Theme for Majsoul Plus
+
+Mods shamelessly taken from rakuchan5's mod collection (https://github.com/rakuchan5/majsoul-plus-mods), merged together into one mod, as well as changing the music to the random mod with the show's OST. List of what the mod changes:
+
+Backgrounds and Tablemat
+Music
+Characters
+  Ichihime = Syaro
+  Miki = Rize
+  Mai = Chino
+  Kana = Chiya
+  Chiori = Cocoa

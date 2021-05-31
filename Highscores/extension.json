@@ -1,0 +1,10 @@
+{
+  "id": "Highscores",
+  "version": "1.0.0",
+  "name": "Recent High Scores",
+  "author": "guano",
+  "description": "Mod that shows the recent highest ron, tsumo and deal in hands.",
+  "preview": "preview.png",
+  "entry": "script.js",
+  "applyServer": [0, 1, 2, 3]
+}

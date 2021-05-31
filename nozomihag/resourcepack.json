@@ -1,0 +1,23 @@
+{
+	"id": "nozomihag",
+	"version": "2.0.0",
+	"name": "Nozomi Emotes",
+	"author": "Some Anon",
+	"description": "Turns all of hags unbonded emotes into Nozomi. Credit to some chinese guy, I didn't make the emote images.",
+	"preview": "preview.png",
+	"_comment": "Source of emotes: https://www.bilibili.com/read/cv2256177",
+	"dependencies": {
+	  "majsoul_plus": "^2.0.0"
+	},
+	"replace":[
+		"extendRes/emo/e200002/0.png",
+		"extendRes/emo/e200002/1.png",
+		"extendRes/emo/e200002/2.png",
+		"extendRes/emo/e200002/3.png",
+		"extendRes/emo/e200002/4.png",
+		"extendRes/emo/e200002/5.png",
+		"extendRes/emo/e200002/6.png",
+		"extendRes/emo/e200002/7.png",
+		"extendRes/emo/e200002/8.png"
+	]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "unlock",
+  "version": "1.3.0",
+  "name": "Unlock everybody",
+  "author": "guano",
+  "description": "Laugh at whales. Have all characters and effects working in your client. Of course, it's only local.",
+  "preview": "preview.png",
+  "entry": "script.js"
+}

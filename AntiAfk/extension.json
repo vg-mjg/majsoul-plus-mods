@@ -1,0 +1,9 @@
+{
+  "id": "AntiAfk",
+  "version": "0.0.2",
+  "name": "AntiAfk",
+  "author": "NeverDecaf",
+  "description": "Prevents getting kicked for inactivity",
+  "preview": "preview.png",
+  "entry": ["AntiAfk.js"]
+}

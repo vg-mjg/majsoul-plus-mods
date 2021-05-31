@@ -1,0 +1,119 @@
+{
+  "id": "chinpo",
+  "version": "0.0.1",
+  "name": "ちんぽにゃ",
+  "author": "nyagger",
+  "description": "ちんぽにゃ！",
+  "preview": "preview.png",
+  "dependencies": {
+    "majsoul_plus": "^2.0.0"
+  },
+  "replace":[
+    {
+      "from": [
+        "audio/sound/yiji/act_chi.mp3"
+      ],
+      "to": "audio/sound/yiji/chiinpo.mp3"
+    },
+    {
+      "from": [
+        "audio/sound/yiji/act_pon.mp3"
+      ],
+      "to": "audio/sound/yiji/chinpopon.mp3"
+    },
+    {
+      "from": [
+        "audio/sound/yiji/act_ron.mp3"
+      ],
+      "to": "audio/sound/yiji/chinporon.mp3"
+    },
+    {
+      "from": [
+        "audio/sound/yiji/act_rich.mp3"
+      ],
+      "to": "audio/sound/yiji/chinchin.mp3"
+    },
+    {
+      "from": [
+        "audio/sound/yiji/act_drich.mp3"
+      ],
+      "to": "audio/sound/yiji/double_chinpo.mp3"
+    },
+    {
+      "from": [
+        "audio/sound/yiji/act_tumo.mp3"
+      ],
+      "to": "audio/sound/yiji/homo.mp3"
+    },
+    {
+      "from": [
+        "audio/sound/yiji/act_kan.mp3"
+      ],
+      "to": "audio/sound/yiji/chikan.mp3"
+    },
+    {
+      "from": [
+        "audio/sound/yiji/act_babei.mp3"
+      ],
+      "to": "audio/sound/yiji/penisu.mp3"
+    },
+    {
+      "from": [
+        "audio/sound/yiji/lobby_normal1.mp3"
+      ],
+      "to": "audio/sound/yiji/lobby1.mp3"
+    },
+    {
+      "from": [
+        "audio/sound/yiji/lobby_normal3.mp3"
+      ],
+      "to": "audio/sound/yiji/poketto.mp3"
+    },
+    {
+      "from": [
+        "audio/sound/yiji/lobby_normalmax1.mp3"
+      ],
+      "to": "audio/sound/yiji/tabemono.mp3"
+    },
+    {
+      "from": [
+        "audio/sound/yiji/lobby_normalmax2.mp3"
+      ],
+      "to": "audio/sound/yiji/omocha.mp3"
+    },
+    {
+      "from": [
+        "audio/sound/yiji/gameend_beiman.mp3",
+        "audio/sound/yiji/gameend_leijiyiman.mp3",
+        "audio/sound/yiji/gameend_manguan.mp3",
+        "audio/sound/yiji/gameend_sanbeiman.mp3",
+        "audio/sound/yiji/gameend_tiaoman.mp3",
+        "audio/sound/yiji/gameend_yiman1.mp3",
+        "audio/sound/yiji/gameend_yiman2.mp3",
+        "audio/sound/yiji/gameend_yiman3.mp3",
+        "audio/sound/yiji/gameend_yiman4.mp3",
+        "audio/sound/yiji/gameend_yiman5.mp3",
+        "audio/sound/yiji/gameend_yiman6.mp3"
+      ],
+      "to": "audio/sound/yiji/matsuri.mp3"
+    },
+    {
+      "from": [
+        "audio/music/liqi1.mp3"
+      ],
+      "to": "audio/sound/yiji/riichi1.mp3"
+    },
+    {
+      "from": [
+        "audio/music/liqi2.mp3"
+      ],
+      "to": "audio/sound/yiji/riichi2.mp3"
+    },
+    {
+      "from": [
+        "audio/music/liqi_chuzhen.mp3"
+      ],
+      "to": "audio/sound/yiji/riichi3.mp3"
+    }
+  ]
+}

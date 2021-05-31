@@ -1,0 +1,9 @@
+{
+  "id": "dimtsumogiri",
+  "version": "1.0.0",
+  "name": "Dim Tsumogiri",
+  "author": "anon",
+  "description": "Greys out tsumogiri like in the replays",
+  "preview": "preview.png",
+  "entry": "script.js"
+}

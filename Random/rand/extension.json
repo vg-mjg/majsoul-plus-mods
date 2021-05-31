@@ -1,0 +1,20 @@
+{
+  "id": "rand",
+  "version": "1.1.1",
+  "name": "Random BGM",
+  "author": "guano",
+  "description": "Random game and riichi songs",
+  "dir": "assets",
+  "preview": "preview.png ",
+  "dependencies": {},
+  "entry": "script.js",
+  "resourcepack": [
+    "audio/bg/game1.mp3",
+    "audio/bg/game2.mp3",
+    "audio/bg/game3.mp3",
+    "audio/bg/game4.mp3",
+    "audio/bg/lobby.mp3",
+    "audio/bg/riichi2.mp3",
+    "audio/bg/riichi1.mp3"
+    ]
+}

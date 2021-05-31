@@ -1,0 +1,9 @@
+{
+  "id": "there_is_no_male",
+  "version":"1.1.2",
+  "name": "There is no male",
+  "author": "Handle",
+  "description": "Males don't belong to MJS. Death to them, only cute girls are allowed.",
+  "entry": "script.js",
+  "preview": "preview.png"
+}

@@ -1,0 +1,1 @@
+Defaults are arrow keys to select tile, enter to discard, t for quick tsumogiri. Calls are just the first letter of their name, with 'w' for ron/tsumo, 's' for skip. 

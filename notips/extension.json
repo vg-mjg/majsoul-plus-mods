@@ -1,0 +1,9 @@
+{
+  "id": "notips",
+  "version": "1.1.0",
+  "name": "No tips",
+  "preview":"preview.jpg",
+  "author": "Anon",
+  "description": "Disables tips",
+  "entry": "script.js"
+}

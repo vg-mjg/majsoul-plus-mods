@@ -1,0 +1,13 @@
+{
+  "id": "redbg",
+  "version": "1.0.0",
+  "name": "Red win screen",
+  "author": ["guano", "Waifu"],
+  "description": "Simple mod that makes the win screen red and white",
+  "preview": "preview.jpg",
+
+  "dependencies": {
+    "majsoul_plus": "^2.0.0"
+  },
+  "replace": ["res/atlas/en/myres/mjdesktop.png"]
+}

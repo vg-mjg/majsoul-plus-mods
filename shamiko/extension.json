@@ -1,0 +1,32 @@
+{
+  "id": "shamiko",
+  "version": "1.0.1",
+  "name": "Shamiko Mod",
+  "author": "Shamikoposter #2",
+  "description": "Shitpost while playing mahjong!",
+  "preview": "preview.png",
+  "dependencies": {},
+  "entry": "script.js",
+  "resourcepack": [
+    "audio/bg/win.mp3",
+    "audio/bg/lose.mp3",
+    "audio/bg/game1.mp3",
+    "audio/bg/game2.mp3",
+    "audio/bg/game3.mp3",
+    "audio/bg/game4.mp3",
+    "audio/bg/game5.mp3",
+    "audio/bg/game6.mp3",
+    "audio/bg/lobby.mp3",
+    "audio/bg/riichi5.mp3",
+    "audio/bg/riichi4.mp3",
+    "audio/bg/riichi3.mp3",
+    "audio/bg/riichi2.mp3",
+    "audio/bg/riichi1.mp3",
+    {"from":"scene/Assets/Resource/tablecloth/tablecloth_default/Table_Dif.jpg","to":"Table_Dif.jpg","all-servers":true},
+	{"from":"myres2/tablecloth/tablecloth_default/preview.jpg","to":"preview.jpg","all-servers":true},
+	{"from":"extendRes/items/tablecloth_navy.jpg","to":"preview.jpg","all-servers":true},
+	{"from":"scene/Assets/Resource/lobby/beijing_chunying.jpg","to":"beijing_chunying.jpg","all-servers":true},
+	{"from":"scene/Assets/Resource/lobby/indoor.jpg","to":"indoor.png","all-servers":true}
+  ]
+
+}

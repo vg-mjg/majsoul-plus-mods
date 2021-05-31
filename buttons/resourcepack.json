@@ -1,0 +1,14 @@
+{
+  "id": "buttons",
+  "version": "9.0.0",
+  "name": "Change buttons",
+  "author": "JK anon",
+  "description": "Rewritten by anon for MajsoulPlus-2.0 and broken updates. Credit to the anon that made the button edits.",
+  "preview": "preview.png",
+  "dependencies": {
+    "majsoul_plus": "^2.0.0"
+  },
+  "replace":[
+      "res/atlas/en/myres/mjdesktop3.png"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "swimsuitfix",
+  "version": "1.1.0",
+  "name": "Decency Patch",
+  "author": "Aranlyde",
+  "description": "Replaces Chiori and Haruna's swimsuits with their base characters",
+  "preview": "preview.png",
+  "dependencies": {
+    "majsoul_plus": "^2.0.0"
+ },
+  "replace":[
+    "extendRes/charactor/wushilanyangcai_YZ/full.png",
+    "extendRes/charactor/wushilanyangcai_YZ/half.png",
+    "extendRes/charactor/wushilanyangcai_YZ/smallhead.png",
+    "extendRes/charactor/wushilanyangcai_YZ/waitingroom.png",
+    "extendRes/charactor/qianzhi_YZ/full.png"
+  ]
+}

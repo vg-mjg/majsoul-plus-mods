@@ -1,0 +1,9 @@
+{
+  "id": "usa",
+  "version": "1.0.0",
+  "name": "usausa",
+  "author": "anon",
+  "description": "Shh",
+  "preview": "6.png",
+  "entry": ["usa.js"]
+}

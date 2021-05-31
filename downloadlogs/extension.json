@@ -1,0 +1,9 @@
+{
+  "id": "downloadlogs",
+  "version": "0.1.0",
+  "name": "download logs",
+  "author": "(you)",
+  "description": "s to track friendlies",
+  "preview": "preview.jpg",
+  "entry": "script.js"
+}

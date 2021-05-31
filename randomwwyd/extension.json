@@ -1,0 +1,9 @@
+{
+  "id": "randomwwyd",  
+  "version": "1.0.0",    
+  "name": "Random WWYD",     
+  "author": "Anon",      
+  "description": "Press W to randomize some things for WWYD screenshots.", 
+  "preview": "preview.png",   
+  "entry": "script.js"        
+}

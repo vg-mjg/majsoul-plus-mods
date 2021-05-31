@@ -1,0 +1,32 @@
+{
+  "id": "umineko_sfx",
+  "version": "0.1.4",
+  "name": "Umineko Sound Effects",
+  "author": "Anonymous Hat",
+  "description": "Replaces some of the sound effects in the game with sfx from the Umineko no Naku Koro Ni sound novel.",
+  "preview": "preview.jpg",
+
+  "dependencies": {
+    "majsoul_plus": "^2.0.0"
+  },
+  "replace": [
+    "audio/audio_mj/beiman.mp3",
+    "audio/audio_mj/btn_appear.mp3",
+    "audio/audio_mj/cutin.mp3",
+    "audio/audio_mj/effect_yakumanchance.mp3",
+    "audio/audio_mj/effect_yakumanready.mp3",
+    "audio/audio_mj/fu_appear.mp3",
+    "audio/audio_mj/hule_fan_out.mp3",
+    "audio/audio_mj/hupai.mp3",
+    "audio/audio_mj/mangan.mp3",
+    "audio/audio_mj/new_dora.mp3",
+    "audio/audio_mj/newround_pais.mp3",
+    "audio/audio_mj/rank1.mp3",
+    "audio/audio_mj/rank234.mp3",
+    "audio/audio_mj/score_appear.mp3",
+    "audio/audio_mj/showtile.mp3",
+    "audio/audio_mj/winlose.mp3",
+    "audio/audio_mj/yakuman.mp3",
+    "audio/audio_mj/zimo.mp3"
+  ]
+}

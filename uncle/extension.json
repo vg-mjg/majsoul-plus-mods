@@ -1,0 +1,9 @@
+{
+  "id": "uncle",
+  "version": "1.0.0",
+  "name": "uncle",
+  "author": "anon",
+  "description": "Use the log viewer to send messages and friend requests to unsuspecting anons. A bit creepy if you ask me",
+  "preview": "6.png",
+  "entry": ["uncle.js"]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "umineko_sfx",
+  "version": "0.1.7",
+  "name": "Umineko Sound Effects",
+  "author": "Anon Cat and (Mostly) Hat",
+  "description": "Replaces some of the sound effects (And music) in the game with sfx from the Umineko no Naku Koro Ni sound novel.",
+  "preview": "preview.jpg",
+
+  "dependencies": {
+    "majsoul_plus": "^2.0.0"
+  },
+  "replace": [
+    {
+         "from":  [
+        "audio/music/liqi1.mp3"
+      ],
+      "to": "audio/music/goldenslaughterer.mp3"
+      },
+
+    {
+      "from":  [
+        "audio/music/yichujifa.mp3"
+      ],
+      "to": "audio/music/worldenddominator.mp3"
+      },
+
+    {
+      "from":  [
+        "audio/music/liqi_chuzhen.mp3"
+      ],
+      "to": "audio/music/dreadofthegrave.mp3"
+      },
+
+    {
+      "from":  [
+        "audio/music/liqi2.mp3"
+      ],
+      "to": "audio/music/finalanswer.mp3"
+    },
+
+    "audio/audio_mj/beiman.mp3",
+    "audio/audio_mj/btn_appear.mp3",
+    "audio/audio_mj/cutin.mp3",
+    "audio/audio_mj/effect_yakumanchance.mp3",
+    "audio/audio_mj/effect_yakumanready.mp3",
+    "audio/audio_mj/fu_appear.mp3",
+    "audio/audio_mj/hule_fan_out.mp3",
+    "audio/audio_mj/hupai.mp3",
+    "audio/audio_mj/mangan.mp3",
+    "audio/audio_mj/new_dora.mp3",
+    "audio/audio_mj/newround_pais.mp3",
+    "audio/audio_mj/rank1.mp3",
+    "audio/audio_mj/rank234.mp3",
+    "audio/audio_mj/score_appear.mp3",
+    "audio/audio_mj/showtile.mp3",
+    "audio/audio_mj/winlose.mp3",
+    "audio/audio_mj/yakuman.mp3",
+    "audio/audio_mj/zimo.mp3",
+    "audio/music/game.mp3",
+    "audio/music/lobby.mp3"
+  ]
+}

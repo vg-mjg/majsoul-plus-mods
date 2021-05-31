@@ -1,0 +1,9 @@
+{
+  "id": "yestips",
+  "version": "1.1.0",
+  "name": "Enable tips",
+  "preview":"preview.jpg",
+  "author": "Handle",
+  "description": "Enable tips, even in notips games.",
+  "entry": "script.js"
+}

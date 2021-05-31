@@ -1,0 +1,9 @@
+{
+  "id": "decensor",
+  "version": "1.0.0",
+  "name": "decensor",
+  "author": "anon",
+  "description": "You're all free now!",
+  "preview": "6.jpg",
+  "entry": ["decensor.js"]
+}
