@@ -1,0 +1,29 @@
+{   
+    "id":"tablecloth2x",
+    "version":"1.0.0",
+    "name":"Tablecloth2x",
+    "author":"Anon",
+    "description":"Replaces tablecloths with upscaled version",
+    "preview":"preview.jpg",
+    "dependencies": {
+        "majsoul_plus": "^2.0.0"
+    },
+    "replace":[
+        "scene/Assets/Resource/tablecloth/tablecloth_20chunjie_en/Table_Dif.jpg",
+        "scene/Assets/Resource/tablecloth/tablecloth_21chunjie_chs_t/Table_Dif.jpg",
+        "scene/Assets/Resource/tablecloth/tablecloth_chigua/Table_Dif.jpg",
+        "scene/Assets/Resource/tablecloth/tablecloth_christmas/Table_Dif.jpg",
+        "scene/Assets/Resource/tablecloth/tablecloth_default/Table_Dif.jpg",
+        "scene/Assets/Resource/tablecloth/tablecloth_dxr/Table_Dif.jpg",
+        "scene/Assets/Resource/tablecloth/tablecloth_green/Table_Dif.jpg",
+        "scene/Assets/Resource/tablecloth/tablecloth_hl/Table_Dif.jpg",
+        "scene/Assets/Resource/tablecloth/tablecloth_kuangdu/Table_Dif.jpg",
+        "scene/Assets/Resource/tablecloth/tablecloth_lotus/Table_Dif.jpg",
+        "scene/Assets/Resource/tablecloth/tablecloth_newyear/Table_Dif.jpg",
+        "scene/Assets/Resource/tablecloth/tablecloth_quehunji1_enjp/Table_Dif.jpg",
+        "scene/Assets/Resource/tablecloth/tablecloth_saki/Table_Dif.jpg",
+        "scene/Assets/Resource/tablecloth/tablecloth_violet/Table_Dif.jpg"
+
+
+    ]
+}
