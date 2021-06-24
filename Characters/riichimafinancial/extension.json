@@ -1,0 +1,17 @@
+{
+  "id": "riichimafinancial",
+  "version": "1.0.0",
+  "name": "Riichima Financial",
+  "author": ["Riichima Financial Group"],
+  "description": "Play as your favorite Riichima Financial Rep. Replaces Bond Costume.",
+  "preview": "preview.png",
+  "resourcepack": [
+    "extendRes/charactor/yiji_0/bighead.png",
+    "extendRes/charactor/yiji_0/full.png",
+    "extendRes/charactor/yiji_0/half.png",
+    "extendRes/charactor/yiji_0/smallhead.png",
+    "extendRes/charactor/yiji_0/waitingroom.png",
+    "extendRes/charactor/yiji_0/reverse/full.png",
+    "extendRes/charactor/yiji_0/reverse/half.png"
+  ]
+  }
