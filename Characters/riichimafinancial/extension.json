@@ -12,6 +12,12 @@
     "extendRes/charactor/yiji_0/smallhead.png",
     "extendRes/charactor/yiji_0/waitingroom.png",
     "extendRes/charactor/yiji_0/reverse/full.png",
-    "extendRes/charactor/yiji_0/reverse/half.png"
+    "extendRes/charactor/yiji_0/reverse/half.png",
+
+    "extendRes/charactor/bamuwei_0/bighead.png",
+    "extendRes/charactor/bamuwei_0/full.png",
+    "extendRes/charactor/bamuwei_0/half.png",
+    "extendRes/charactor/bamuwei_0/smallhead.png",
+    "extendRes/charactor/bamuwei_0/waitingroom.png"
   ]
   }
